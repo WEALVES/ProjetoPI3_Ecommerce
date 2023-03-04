@@ -17,6 +17,8 @@
 ### - pagina de pagamento
 ### - Historico de compras
 ### - Página de Suporte ao Cliente
+### - Controle de fornecedors
+### - 
 
 
 ## Integrantes do Grupo
